@@ -1,2 +1,2 @@
 # benki
-Bank without border
+Bank without borders
