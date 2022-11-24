@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572975251424",
+    "project_id": "benki-fe1d2",
+    "storage_bucket": "benki-fe1d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572975251424:android:6f2469b808c462e4aff585",
+        "android_client_info": {
+          "package_name": "com.benki.benki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572975251424-hgp8fhmheig5ojuil8d5n5eckokjca70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARHaYyu7nKUkkaya1YVhQtWRFa1MWZG2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572975251424-hgp8fhmheig5ojuil8d5n5eckokjca70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
